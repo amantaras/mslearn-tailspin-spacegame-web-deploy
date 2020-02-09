@@ -1,6 +1,6 @@
 trigger:
 - '*'
-#this is a test to force the update
+#this is a test to force the update another change
 variables:
   buildConfiguration: 'Release'
   releaseBranchName: 'release'
